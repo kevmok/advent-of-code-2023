@@ -36,8 +36,6 @@ function isNumber(char: string): boolean {
 }
 
 /* --- Trebuchet?! Part 2 --- */
-/* --- Day 1: Trebuchet?! Part 1 --- */
-
 const numberMap = new Map<string, string>([
   ['one', '1'],
   ['two', '2'],
